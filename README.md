@@ -56,6 +56,7 @@
 * Stillið fyrirsögnina ofaná forsíðumyndina með því að setja -mínus gildi á `header h1 { magin-bottom:  }` 
 * Til að tryggja að fyrirsögni sé ofaná myndinni þarf gildi í `z-index` að vera hærra en á forsíðumyndinni 
 
+> Athugið að það á Ekki að nota **Rockitt** letrið eða litasamsetninguna í æfingaverkefni 6.
 ---
 
 ### Námsmat  15%
