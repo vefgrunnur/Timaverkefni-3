@@ -63,8 +63,6 @@
 ### Námsmat  15%
 
 -   2% Letur og litaval 
-	-	Leturgerð sótt af Google fonts
-	-	Mismunandi bakgrunnslitur í _header, main og footer_
 -   1% Tenglar í efnisyfirliti hafa annan lit eftir að búið er að smella á þá
 -   4% Rétt stærð fosíðumyndar eftir skjástærðum (_picture_)
 -   2% Mynd í hliðardálk með gagnsæjum grunni (_transparent_)
