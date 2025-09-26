@@ -30,11 +30,11 @@
 ### Skipulag (_Mobile up layout_)
 
 1.  Forsíðumynd í `picture` taginu hleðst í réttri stærð í vafra eftir skjástærð, myndina á að fjölfalda í eftirfarandi stærðum. 
-    -   Farsímar (lóðrétt): 0rem - 37.5rem
-	-   Farsímar (lárétt): 37.5rem
-	- Spjaldtölvur 48rem
-    - Fartölvur 60rem
-	- Borðtölvur 80rem
+    -   Farsímar (lóðrétt): 0rem - 37.5rem 
+	-   Farsímar (lárétt): 37.5rem - 48rem
+	- Spjaldtölvur 48rem - 60rem
+    - Fartölvur 60rem - 80rem
+	- Borðtölvur 80rem +
 2.  Myndir aðlagast skjástærðum eftir viðmiðum
 	- 0 - 47rem, allt efni vefsíðu í einum dálki
 	- 48rem, Í ` main ` eru 2 dálkar 
